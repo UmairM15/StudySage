@@ -1,6 +1,6 @@
 # StudySage
 
-##Before running exe please download fonts as some computers do not have it
+## Before running exe please download fonts as some computers do not have it
 
 Hello Everyone !!!
 Welcome to StudySage, this is a student activity app made entirely in Turning in 40 hours!!
